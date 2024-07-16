@@ -56,10 +56,3 @@ This project is an advanced e-commerce application designed using a microservice
 
 ## Contributors
 - **Sukran Sinci**: Project Creator and Lead Developer
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Links
-- **Live Demo**: [Link to live demo if available]
-- **Documentation**: [Link to additional documentation if available]
