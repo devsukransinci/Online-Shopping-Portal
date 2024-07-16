@@ -1,2 +1,1 @@
-
-application-arhitecture.png
+![](application-arhitecture.png)
