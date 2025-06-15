@@ -1,28 +1,34 @@
-![](application-arhitecture.png)
-# E-Commerce Microservices Project
+![Architecture Diagram](application-arhitecture.png)
 
-## Description
-This project is an advanced e-commerce application designed using a microservices architecture. It leverages modern technologies to ensure scalability, reliability, and maintainability. The project aims to provide a robust platform for managing e-commerce activities, including product listings, orders, and user management.
+# 🛒 E-Commerce Microservices Project
 
-## Technologies Used
+## 📌 About
+
+A cloud-native, microservices-based e-commerce platform built for scalability, modularity, and real-world applicability. This project handles core e-commerce functionalities such as product management, user services, and order processing, with a focus on event-driven communication, observability, and fault tolerance.
+
+## 🚀 Tech Stack
+
+- **Spring Boot 3 & Spring Cloud**
 - **Microservices Architecture**
-- **Spring 3 & Spring Cloud**
-- **Kafka**
-- **MongoDB**
-- **ZIPKIN**
-- **API Gateway**
-- **Docker**
-- **TDD (Test-Driven Development)**
+- **Apache Kafka** (asynchronous messaging)
+- **MongoDB** (NoSQL database)
+- **Zipkin** (distributed tracing)
+- **API Gateway** (routing and authentication)
+- **Docker & Docker Compose** (containerization)
+- **TDD** (Test-Driven Development)
 
-## Features
-- **Product Management**
-- **Order Processing**
-- **User Management**
-- **Scalable Architecture**
-- **Event-Driven Communication**
-- **Centralized Logging and Monitoring**
+## ⚙️ Features
+
+- 🛍️ **Product Service** – Create, update, delete, and fetch products  
+- 📦 **Order Service** – Place and manage orders, with status tracking  
+- 👤 **User Service** – Registration, authentication, and user profile management  
+- ⚡ **Kafka Integration** – Event-driven communication between services  
+- 🔍 **Centralized Logging & Monitoring** – Using Zipkin for request tracing  
+- 🔧 **API Gateway** – Central entry point for routing and load balancing  
+- 🧪 **TDD-Based Development** – Ensuring quality and reliability
 
 ## Installation Instructions
+
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/devsukransinci/Online-Shopping-Portal.git
