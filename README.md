@@ -60,5 +60,9 @@ A cloud-native, microservices-based e-commerce platform built for scalability, m
     - Authenticate users via POST requests to `/api/auth/login`
     - Manage user profiles via GET/PUT requests to `/api/users/{id}`
 
+---
+
+> Feel free to fork, clone, and contribute to this project. Feedback and improvements are welcome!
+
 ## Contributors
 - **Sukran Sinci**: Project Creator and Lead Developer
